@@ -1,6 +1,6 @@
 <!-- Header Typing Animation -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Mobile+Engineer;Clean+Architecture+Enthusiast;Building+Reliable+Apps+That+Scale&center=true&width=500&height=45&color=0A0A0A">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Mobile+Engineer;Clean+Architecture+Enthusiast;Building+Reliable+Apps+That+Scale&center=true&width=500&height=45">
 </h2>
 
 ---
