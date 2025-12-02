@@ -1,57 +1,78 @@
-👋 Hi, I'm Amirreza Sedghamiz
-Flutter Developer • Mobile Engineer • Software Problem-Solver
+<!-- Header Typing Animation -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Mobile+Engineer;Clean+Architecture+Enthusiast;Building+Reliable+Apps+That+Scale&center=true&width=500&height=45&color=0A0A0A">
+</h2>
 
-I’m a Flutter developer with 4+ years of hands-on experience, delivering production-ready mobile applications, including a 100k+ user finance/social app, multiple freelance projects, and polished university systems with complete backend logic.
+---
 
-I focus on building clean, efficient, scalable mobile applications with solid architecture and attention to detail. My work spans custom UI/UX, API integration, offline systems, multilingual apps, performance optimization, and end-to-end app development.
+# 👋 Hi, I'm **Amirreza Sedghamiz**
 
-🔹 What I Do
+### **Flutter Developer • Mobile Engineer • Software Problem-Solver**
 
-Cross-platform mobile apps with Flutter (Android/iOS/Web)
+I’m a Flutter developer with **4+ years of experience**, specializing in building scalable, production-ready mobile apps.  
+I’ve delivered applications used by **100k+ active users**, multiple freelance client apps, and university projects with real architecture and database logic.
 
-Clean UI/UX implementation and custom components
+I focus on **clean code, reliability, and user-centered design**.
 
-Firebase (Auth, Firestore, Cloud Messaging)
+---
 
-REST API integration & backend communication
+## 🔹 **What I Do**
+- Cross-platform development with **Flutter (Android/iOS/Web)**
+- Custom UI/UX components & responsive layouts  
+- REST API integration & Firebase services  
+- State management (**Provider**)  
+- Offline-first applications & caching  
+- Sentry analytics, crash monitoring & debugging  
+- CI/CD automation and build pipelines  
+- Experimenting with **LLM fine-tuning & NLP**
 
-State management using Provider
+---
 
-Performance tuning, debug & crash analytics (Sentry)
+## 🔹 **Tech Stack**
 
-CI/CD pipelines and production deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,java,git,github,sqlite,vscode" height="40"/>
+</p>
 
-Basic AI/LLM experimentation (fine-tuning, NLP workflows)
+---
 
-🔹 Tech Stack
+## 🔹 **Highlighted Projects**
 
-Flutter • Dart • Firebase • REST APIs
-Git • Provider • SQLite • SQL • Java (Android basics)
-Sentry • CI/CD • JSON • Clean Architecture Approaches
+### **📱 eKeep — 100k+ Users (Production App)**
+A multilingual financial/social application rebuilt from scratch.  
+Includes polls, galleries, charts, notifications, SSO, offline mode, PWA, and Sentry monitoring.
 
-🔹 Highlighted Projects
-📱 eKeep — 100k+ Users (Production App)
+### **🍽 Food Ordering App (Database Final Project)**
+Role-based system (Admin, Manager, Customer) built with complete ERD, SQL stored procedures, ordering workflows, and full UI.
 
-A multilingual social finance app rebuilt from the ground up.
-Features: interactive charts, polls, galleries, notifications, SSO, offline mode, PWA, Sentry integration.
-Role: Lead Flutter Developer
+### **📚 LeadLearn**
+Educational app with modular architecture, clean UI, and Flutter best practices.
 
-🍽 Food Ordering App (University Final Project)
+---
 
-Multi-role system (Admin, Manager, Customer), with full DB design, ordering system, menu logic, working UI, ERD, stored procedures.
+## 🔹 **GitHub Analytics**
 
-📚 LeadLearn
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirrezaSedghamiz&show_icons=true&hide_border=true&theme=default" height="150">
+  <img src="https://streak-stats.demolab.com/?user=AmirrezaSedghamiz&theme=default&hide_border=true" height="150">
+</p>
 
-Educational and learning app with modular design and user-oriented UI/UX.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmirrezaSedghamiz&theme=flat&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
-🔹 GitHub Stats
+---
 
-(Kept clean & professional — no flashy colors)
+## 🔹 **Visitor Counter**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AmirrezaSedghamiz&label=Profile+Views&color=0A0A0A&style=flat">
+</p>
 
-🔹 Contact
+---
 
-📫 Email: amir7007.sed@gmail.com
+## 🔹 **Contact**
+📫 Email: **amir7007.sed@gmail.com**  
+🌐 LinkedIn: [linkedin.com/in/amirreza-sedghamiz](https://linkedin.com/in/amirreza-sedghamiz)
 
-🌐 LinkedIn: linkedin.com/in/amirreza-sedghamiz
-
+---
 
