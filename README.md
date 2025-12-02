@@ -50,6 +50,8 @@ Educational and learning app with modular design and user-oriented UI/UX.
 
 🔹 Contact
 
-📫 Email: amirrezasedghamiz@gmail.com
+📫 Email: amir7007.sed@gmail.com
 
 🌐 LinkedIn: linkedin.com/in/amirreza-sedghamiz
+
+
