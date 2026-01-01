@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GitProfileBanner.png" alt="Amirreza Sedghamiz – Flutter & AI Developer" width="60%" />
+  <img src="GitProfileBanner.png" alt="Amirreza Sedghamiz – Flutter & AI Developer" width="80%" />
 </p>
 
 <!-- Header Typing Animation -->
