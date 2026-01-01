@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="GitProfileBanner.png" alt="Amirreza Sedghamiz – Flutter & AI Developer" />
+</p>
+
 <!-- Header Typing Animation -->
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Mobile+Engineer;Clean+Architecture+Enthusiast;Building+Reliable+Apps+That+Scale&center=true&width=500&height=45">
